@@ -1,0 +1,4 @@
+git config --global -l
+git config --local -l
+git config --local user.email "9xxx@qq.com"
+git config --local user.name "mine"
